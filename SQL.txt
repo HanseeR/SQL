@@ -1,0 +1,27 @@
+-- Online SQL Editor to Run SQL Online.
+-- Use the editor to create new tables, insert data and all other SQL operations.
+-- Database are the storage devices , they allow the efficiency of the data
+-- Data integrity
+-- Data security
+-- Access control and encryption
+-- Scalability
+-- As data grows the data needs to be scaled up 
+-- Data manipulation 
+-- Data Organization ( tables , keys ) 
+
+-- String , integers and float data types 
+-- eg : Short string ; Varchar , integers are data-type that stores whole numbers 
+-- Float data types store numbers that are in fractional part 
+-- SQL keys , helpful for finding a record in the table 
+-- Super key : Grp that identifies unique rows in the table 
+-- Candidate keys : Super key with no repeated attributes 
+-- Primary key : The two rows cannot have the same primary key values 
+-- Alternate key : col or grp of col of that table 
+-- Foreign key : Creating relations between 2 tables and among many tables as well , can be multiple in a table 
+-- Surrogate key : Artificial key , used to uniquely identify each column 
+-- Composite key can be a foreign key be composite key may or may not be a foreign key 
+
+ddl - create , drop , alter ,truncate and rename 
+
+
+
